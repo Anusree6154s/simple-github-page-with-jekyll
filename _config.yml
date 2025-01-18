@@ -3,11 +3,10 @@
 # theme
 # choose themes from https://pages.github.com/themes/
 # and their respective _config file from their repos
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-# rest copied from https://github.com/pages-themes/minimal/blob/master/_config.yml
+# rest copied from https://github.com/pages-themes/cayman/blob/master/_config.yml
 title: Github pages website with jekyll theme
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdktHN-4sH7Pb0ooA8e3MM0oFQLT-3eOcj1g&s
-description: Minimal is a theme for GitHub Pages.
+description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
